@@ -136,9 +136,15 @@ const About = () => {
           <div>
             <p>
               Hello! My name is Armaan and I'm passionate about data and its potential to solve
-              complex problems. My interest in web development started back in 2012 when I decided
-              to try editing custom Tumblr themes — turns out hacking together a custom reblog
-              button taught me a lot about HTML &amp; CSS!
+              complex problems.
+            </p>
+
+            <p>
+              Digest this: 90% of the world's data has been generated in the past{' '}
+              <a href="https://www.statista.com/statistics/871513/worldwide-data-created/">
+                two years alone
+              </a>{' '}
+              — and the number just keeps increasing at a faster rate!
             </p>
 
             <p>

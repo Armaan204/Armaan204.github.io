@@ -1,13 +1,14 @@
 ---
 date: '2018-05-14'
-title: 'Lead Engineer'
-company: 'Upstatement'
+title: 'Data Analyst Co-op'
+company: 'Geotab'
 location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+range: 'Jan 2024 - Present'
+url: 'https://www.geotab.com/'
 ---
 
-- Deliver high-quality, robust production code for a diverse array of projects for clients including Harvard Business School, Everytown for Gun Safety, Pratt Institute, Koala Health, Vanderbilt University, The 19th News, and more
-- Work alongside creative directors to lead the research, development, and architecture of technical solutions to fulfill business requirements
-- Collaborate with designers, project managers, and other engineers to transform creative concepts into production realities for clients and stakeholders
-- Provide leadership within engineering department through close collaboration, knowledge shares, and mentorship
+- Extract actionable insights from Google BigQuery to assist firmware engineers develop, maintain, and enhance data assets & software
+- Create visualizations and dashboards in the BI tool Apache Superset.
+- Develop ETL data pipelines/workflows for BigQuery data using Apache Airflow, SQL, and Python
+- Leverage GitLab to manage pipelines, version control, issue tracking codes and ensuring project efficiency and organization.
+- Use JIRA issue tracking software to manage requests and keep stakeholders updated on issue progress

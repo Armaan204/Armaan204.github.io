@@ -1,13 +1,11 @@
 ---
 date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
+title: 'Mathematics and Statistics Instructor'
+company: 'Oxford Learning'
 location: 'Cupertino, CA'
-range: 'July - December 2017'
-url: 'https://www.apple.com/music/'
+range: 'Oct 2022 - Apr 2023'
+url: 'Oxford Learning Centres Inc'
 ---
 
-- Developed and styled interactive web applications for Apple Music using Ember and SCSS
-- Built and shipped the Apple Music Extension for Facebook Messenger leveraging third-party and internal API integrations
-- Architected and implemented the user interface of Apple Music's embeddable web player widget for in-browser user authorization and full song playback
-- Contributed extensively to the creation of MusicKit JS, a public-facing JavaScript SDK for embedding Apple Music players into web applications
+- Provided teaching support for 30+ students learning up to grade 12 Mathematics, Statistics, Physics, and English
+- Contributed towards management workflow and increased student management efficiency by 10%

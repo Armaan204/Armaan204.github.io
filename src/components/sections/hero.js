@@ -65,8 +65,8 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a 2nd year Statistics student at UofT, specializing in machine learning and data
-        science. Currently, I’m in the midst of a Data Analyst Co-op Internship at&nbsp;
+        I’m a 2nd year Statistics student at UofT, specializing in Machine Learning and Data
+        Science. Currently, I’m in the midst of a Data Analyst Co-op Internship at&nbsp;
         <a href="https://www.geotab.com/" target="_blank" rel="noreferrer">
           Geotab
         </a>
