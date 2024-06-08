@@ -143,7 +143,7 @@ const About = () => {
           <div>
             <p>
               Hello! My name is Armaan and I'm passionate about data and its potential to drive
-              innovation, reveal insights and pave the way for breakthroughs.
+              innovation, reveal insights, and pave the way for breakthroughs.
             </p>
 
             <p>

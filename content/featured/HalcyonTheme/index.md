@@ -1,15 +1,14 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
-cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+title: 'CollaboraCart'
+cover: './collaboracart.png'
+github: 'https://github.com/Armaan204/CollaboraCart'
+external: 'https://devpost.com/software/collaboracart'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - SQLite
+  - React
+  - Tailwind CSS
+  - Flask
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+A platform that connects small businesses with parrallel supply, allowing them to purchase larger combined order volumes at lower per-unit prices. Built alongside 3 UWaterloo students at [Hack the Valley 8](https://hack-the-valley-8.devpost.com/submissions/search?utf8=%E2%9C%93&terms=CollaboraCart&sort=).

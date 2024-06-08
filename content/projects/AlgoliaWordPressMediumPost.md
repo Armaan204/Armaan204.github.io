@@ -1,14 +1,14 @@
 ---
 date: '2020-03-27'
-title: 'Integrating Algolia Search with WordPress Multisite'
+title: 'PriceWatcher'
 github: ''
-external: 'https://medium.com/stories-from-upstatement/integrating-algolia-search-with-wordpress-multisite-e2dea3ed449c'
+external: 'https://github.com/Armaan204/Price-Watcher'
 tech:
-  - Algolia
-  - WordPress
-  - PHP
-company: 'Upstatement'
+  - Python
+  - Selenium
+  - ChromeWebdriver
+company: ''
 showInProjects: true
 ---
 
-Building a custom multisite compatible WordPress plugin to build global search with Algolia
+A web scraping price tracker that notifies users when Amazon product prices drop.

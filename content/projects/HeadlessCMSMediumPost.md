@@ -1,15 +1,14 @@
 ---
 date: '2019-11-12'
-title: 'Building a Headless Mobile App CMS From Scratch'
+title: 'Lab Scheduling Application'
 github: ''
-external: 'https://medium.com/stories-from-upstatement/building-a-headless-mobile-app-cms-from-scratch-bab2d17744d9'
+external: 'https://github.com/Armaan204/Lab-Scheduler'
 tech:
-  - Node
-  - Express
-  - Firebase
-  - Vue
-company: 'Upstatement'
+  - Java
+  - MySQL
+  - Eclipse-Window-Builder
+company: ''
 showInProjects: true
 ---
 
-Find out how we built a custom headless CMS with Node, Express, and Firebase for a project at Upstatement
+A lab scheduling application made to digitalize my highschool and serve 250+ students and teachers.

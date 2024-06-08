@@ -1,14 +1,15 @@
 ---
 date: '2020-01-10'
-title: 'Time to Have More Fun'
-github: 'https://github.com/bchiang7/time-to-have-more-fun'
-external: 'https://time-to-have-more-fun.now.sh/'
+title: 'WeatherHere'
+github: 'https://github.com/Armaan204/Weather-Here'
+external: 'https://replit.com/@Armaan204'
 tech:
-  - Next.js
-  - Tailwind CSS
-  - Firebase
+  - Python
+  - Django
+  - HTML
+  - Javascript
 company: ''
 showInProjects: true
 ---
 
-A single page web app for helping me choose where to travel, built with Next.js, Firebase, and Tailwind CSS
+A web application that detects current location and provides real-time weather data such as temperature, probability of precipitation, and wind levels.
