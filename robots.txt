@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://armaan204.github.io/sitemap-index.xml
+Host: https://armaan204.github.io
