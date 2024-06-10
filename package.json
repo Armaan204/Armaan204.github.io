@@ -1,11 +1,11 @@
 {
-  "name": "v4",
-  "description": "Personal Website V4",
+  "name": "armaan204-website",
+  "description": "Armaan Rehman Shah Website",
   "version": "1.0.0",
-  "author": "Brittany Chiang <brittany.chiang@gmail.com>",
+  "author": "Armaan Rehman Shah <armaanrehmanshah1@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bchiang7/v4"
+    "url": "https://github.com/Armaan204/Armaan204.github.io"
   },
   "keywords": [
     "gatsby"

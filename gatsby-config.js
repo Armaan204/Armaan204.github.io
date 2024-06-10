@@ -4,11 +4,12 @@ module.exports = {
   siteMetadata: {
     title: 'Armaan Rehman Shah',
     description:
-      'Brittany Chiang is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+      'Armaan Rehman Shah is an aspiring data scientist who is passionate about data and its potential to drive innovation, reveal insights, and pave the way for breakthroughs.',
+    siteUrl: 'https://armaan204.github.io', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+    twitterUsername: '@armaanshah__',
   },
+  pathPrefix: '',
   plugins: [
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-styled-components`,
